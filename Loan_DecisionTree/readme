@@ -1,0 +1,2 @@
+Use decision tree to classify whather or not a customer will pay the loan or not.
+Decision tree classifier with "Entropy" as criterion, gave accuracy score of around 93% in predicting the "Result" accurately.
